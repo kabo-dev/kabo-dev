@@ -14,7 +14,7 @@
 - **Extras:** Figma | Photoshop | OBS Studio  
 
 ## 📘 Currently Learning  
-- 🔹 Lua – scripting for **FiveM** and backend game logic.  
+- 🔹 Lua – scripting for **FiveM**, **Helix** and backend game logic.  
 - 🔹 JavaScript – strengthening fundamentals and DOM manipulation.  
 - 🔹 TypeScript – learning to write **safer, scalable web applications**.  
 
