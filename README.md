@@ -19,7 +19,7 @@
 - 🔹 TypeScript – learning to write **safer, scalable web applications**.  
 
 ## 🔍 Current Projects
-- Helix RP Server 
-   - Looking for Frontend & Backend Developers, Mappers, Scripters.
-   - Reach out to my Discord @stainbrown for more info
+- PO Lifecycle Tool
+   - PO Tool to automate workflows
+   - Reach out to my Discord @stainbrown if your interested in collaborating.
  
