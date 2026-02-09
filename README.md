@@ -1,27 +1,37 @@
-👤 About Me
-• Focused on learning through building real things, not just tutorials  
-• Background in supply chain with a growing interest in automation and systems  
-• Interested in backend logic, data flow, and how software supports operations  
-• Active in FiveM / GTA V environments, learning scripting through practical use  
-• Curious about AI conceptually and how it fits into real-world systems  
-• Runs on consistency, problem-solving, and good coffee
+### Hey there! I'm Kabo 👋
 
-🛠️ Tools & Skills (Current / Learning)
-• Lua, JavaScript, HTML, CSS  
-• PostgreSQL (learning), relational data concepts  
-• VS Code, GitHub  
-• Docker & Linux environments (early-stage, learning by doing)
+## 🎯 About Me
 
-📂 Projects
-• Purchase Order Lifecycle Tool  
-  Personal project to understand backend fundamentals by modeling real procurement workflows  
-• Small Business Website  
-  Production-focused build with emphasis on usability and deployment
+- 📦 Supply Chain graduate venturing into the world of code
+- 🔧 Currently learning Backend Development
+- 🌱 Building my foundation with HTML & CSS
+- 💡 Combining logistics thinking with software solutions
+- 🚀 Transitioning from managing supply chains to building applications
+- ☕ Fueled by curiosity and coffee
 
-🤝 Collaboration
-• Open to contributing to projects where I can learn and provide value  
-• Especially interested in backend, automation, and systems-oriented work  
-• Dedicated, communicative, and willing to put in the time
+## 🛠️ Tech Stack
 
-📫 Contact
-Discord: **kabodev**
+**Currently Learning:**
+- 🖥️ Backend Development
+
+**Skills:**
+- 📝 HTML
+- 🎨 CSS
+
+**Tools:**
+- 💻 Visual Studio Code
+- 🐙 Git & GitHub
+
+## 🌟 My Journey
+
+From analyzing supply chains to writing code - I'm on a mission to merge my logistics background with software development. Every line of code is a step toward building solutions that matter.
+
+## 🤝 Connect with Me
+
+Let's connect and grow together!
+
+[Add your social media links here]
+
+---
+
+*"The best time to start was yesterday. The next best time is now."*
