@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kabo
+# 👋 Hey, I'm Browner
 
 **💼 Finance Professional** | **📦 Supply Chain Graduate** | **💻 Coding Enthusiast**
 
