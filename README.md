@@ -49,8 +49,4 @@ Supply chain graduate exploring backend development as a passion project. Bringi
 
 ## 📫 Connect With Me
 
-**💬 Discord:** `kabodev`
-
----
-
-*"Building one line of code at a time"* ✨
+**💬 Discord:** `brownerdev`
