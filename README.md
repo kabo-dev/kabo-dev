@@ -2,7 +2,7 @@
 
 ### A passionate developer from the US
 
-- 🔭 I'm currently working on **Mobile Detailing Website and Learning**
+- 🔭 I'm currently working on a **Mobile Detailing Website and Learning**
 
 - 🌱 I'm currently learning **Python**
 
